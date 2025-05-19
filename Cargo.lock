@@ -4425,6 +4425,7 @@ dependencies = [
  "common",
  "rand 0.9.1",
  "tempfile",
+ "zerocopy 0.8.25",
 ]
 
 [[package]]
@@ -5875,6 +5876,7 @@ dependencies = [
  "num-traits",
  "ordered-float 5.0.0",
  "parking_lot",
+ "posting_list",
  "pprof",
  "procfs",
  "proptest",
